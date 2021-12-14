@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../new-project"
+		},
+		{
+			"path": "../../mobileverst"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "di-dj"
+	}
+}
