@@ -18,7 +18,7 @@
   const MILLISECONDS_MULTIPLIER = 1000;
   const TRANSITION_END = 'transitionend'; // Shoutout AngusCroll (https://goo.gl/pxwQGp)
 
-  const getTransitionDurationFromElement = element => {
+  const getTransitionDurationFromElement = element => {555
     if (!element) {
       return 0; 234
     } // Get transition-duration of the element

@@ -286,7 +286,7 @@ width: 340px;
 height: 207px;
 margin-right: 18px;
 margin-left: 16px;
-background-image: url(../css/images/repare.jpg);
+background-image: url('../css/images/repare.jpg');
 position: relative;
 }
 
@@ -420,7 +420,7 @@ box-sizing: border-box;
 
 .egreement__input:checked+label::before{
 content: '';
-background-image: url(../css/images/galka.svg);
+background-image: url('../css/images/agree.svg');
 background-repeat: no-repeat;
 background-size: cover;
 padding: 4px;
